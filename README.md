@@ -1,5 +1,5 @@
 # Udacity_VR_01
-Udacity VR Dev Part 1
+Udacity VR Dev Part 1 by Doug Johnson
 
 Google VR Version: 1.50.0
 
